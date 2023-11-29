@@ -1,0 +1,1 @@
+{'user': '奚睿豪', 'time': '21:16', 'llcs': 52, 'haoyou': ['牟科明2252081国豪', '窦为嘉2253449国豪精英班工科', '斯蒂芬', 'freedomspike', '嘌呤半升', '方也尸', 'TiAmo', '西伯利亚高等食堂', '48', 'placebot', 'Revue☆Starlight', '快枪手', '新同济大学表白墙', 'Vsavi Shakti', 'M.BLUE极致黯然', 'Romant：tery', 'Flottez comme un rêve', '一只小幽灵', '秦驰', '時優秀.'], 'likes': 22, 'content': ''}

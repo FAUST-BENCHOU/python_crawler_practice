@@ -1,0 +1,1 @@
+{'user': '黄昱程 2252337 物理', 'time': '22:29', 'llcs': 69, 'haoyou': ['窦为嘉2253449国豪精英班工科', '黄昱程 2252337 物理', '张郁卓2253603工科', '毛豆出击', 'Dominik Schneider', '王某', '', 'Jouska', 'Lowri', 'LTY', '摘了个胡桃嘞', 'H.Chen', 'Luv(Sic.)', 'Mads Keanu', 'Heart  TPCO', '镓淋铨·杯⑨换_功臣、', 'Heathrow', '留云借风真君', '〔有人@我〕', '●'], 'likes': 31, 'content': '即使被禁，但巨人依旧热门第一，巨人yyds！'}

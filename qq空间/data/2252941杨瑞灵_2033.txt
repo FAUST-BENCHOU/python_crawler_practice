@@ -1,0 +1,1 @@
+{'user': '2252941杨瑞灵', 'time': '20:33', 'llcs': 74, 'haoyou': ['窦为嘉2253449国豪精英班工科', 'wjh', 'itak', 'Mr. Blank', 'Zitrone.', '神說要有光', '简儿', '派大星', 'Rei', '残阳', '麦田之栎', 'Gravitas', '剎那回望', 'Brady', '0#1', 'Sophia', 'M', '白玉红豆', 'Woooow', '一起养狗'], 'likes': 43, 'content': '刚刚掉了我的第八张卡'}

@@ -1,0 +1,1 @@
+{'user': '琼', 'time': '08:41', 'llcs': 65, 'haoyou': ['玛达达比喵Algorithm', '纸渐', '兰时白藏', 'CloudyLake', '高寒笙', 'Δ&ι', '治孤力', 'Wartion Yang'], 'likes': 9, 'content': '怎么舍得不起床！'}

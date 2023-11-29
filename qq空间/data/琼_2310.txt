@@ -1,0 +1,1 @@
+{'user': '琼', 'time': '23:10', 'llcs': 145, 'haoyou': ['Rogue-X', '挽枫', '纸渐', '。         半生瓜', '敖铭泽', '易春', '666', 'CloudyLake', '画眉如黛', 'WEZBWRY', 'YUUUUMAOOOOO', '•木木', '高寒笙', '子言', '默', 'deserted_419', '镜玉', 'Δ&ι', '森 de Master', '懂得都懂'], 'likes': 20, 'content': '是被光选中的人？\u200b不不不，是主动靠近灿烂的我们'}

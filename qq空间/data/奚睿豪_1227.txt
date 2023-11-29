@@ -1,0 +1,1 @@
+{'user': '奚睿豪', 'time': '12:27', 'llcs': 0, 'haoyou': [], 'likes': 0, 'content': '军训结束'}

@@ -1,0 +1,1 @@
+{'user': '肖颖 2252813 工科', 'time': '19:54', 'llcs': 128, 'haoyou': ['2254316沈徐敏', '国豪2250883-韦宝怡-王老师', '肖颖 2252813 工科', '230刘文飞', 'LTC', '咬一口汤圆', '-', 'Y.B.L. Trammels Smiling.', 'かぐゃの兎', 'Stray bird', '清风无痕', '这是什么？作业，鸽一下', 'cloudwalker', '清醒小岛', 'Farfalla tempesta', 'camellia.', '易安.', '北巷南猫', 'Raphael', '漂亮的うちは'], 'likes': 76, 'content': '这么好的天气，是谁还没有出来秋游的'}

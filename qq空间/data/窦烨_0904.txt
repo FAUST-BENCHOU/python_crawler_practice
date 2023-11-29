@@ -1,0 +1,1 @@
+{'user': '窦烨', 'time': '09:04', 'llcs': 109, 'haoyou': ['窦烨', 'N.', '愿', 'H迪', '無境', '（･ェ･）@', 'ohh_kilakilo.', '有期', 'Augenstern', '满船清梦', '&.lotus', '枫.', 'LEISURE  CATCHME', '茉香奶绿.', '爽歪歪', '呱唧咕唧', 'sourjar', '猫饼', '江户川乱步', '飞飞小甜心'], 'likes': 60, 'content': '《谁杀死了周日》'}

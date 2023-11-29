@@ -1,0 +1,1 @@
+{'user': '2251542-国06-武鹏凯', 'time': '07:27', 'llcs': 0, 'haoyou': [], 'likes': 0, 'content': "I know you're sad and tiredYou've got nothing left to giveBut you'll find another life to liveI know you'll get over it"}

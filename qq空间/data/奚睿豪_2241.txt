@@ -1,0 +1,1 @@
+{'user': '奚睿豪', 'time': '22:41', 'llcs': 58, 'haoyou': ['牟科明2252081国豪', '窦为嘉2253449国豪精英班工科', 'cxdz', '不平', '小兔子', '蜃楼', 'YBbob', '天亮了', '酸素', '方也尸', 'TiAmo', 'Encore！', '48', '烤鱿鱼', 'IM楓', 'placebot', 'Revue☆Starlight', '快枪手', '学', 'Crystal'], 'likes': 33, 'content': '云南·Day0'}

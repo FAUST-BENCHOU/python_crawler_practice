@@ -1,0 +1,1 @@
+{'user': '肖颖 2252813 工科', 'time': '19:38', 'llcs': 69, 'haoyou': ['2254316沈徐敏', '肖颖 2252813 工科', '咬一口汤圆', '-', 'Y.B.L. Trammels Smiling.', 'かぐゃの兎', 'Stray bird', 'Rosa Luxemburg', '这是什么？作业，鸽一下', 'cloudwalker', '清醒小岛', '六出纷霏', '...', '夏日漱石', '■□', 'Ethereal', 'iLELE', '琅', '中书令', 'Slewis'], 'likes': 42, 'content': '九敏，这也太好看了吧'}

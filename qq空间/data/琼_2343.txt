@@ -1,0 +1,1 @@
+{'user': '琼', 'time': '23:43', 'llcs': 68, 'haoyou': ['玛达达比喵Algorithm', '起司🧀', '^阮念熙^', '敖铭泽', 'CloudyLake', 'WEZBWRY', 'YUUUUMAOOOOO', '烧灼.', 'yes.hi', '蓝色向日葵', '高寒笙', '无QQ昵称', '🥑', '默', 'Δ&ι', '治孤力', 'Wartion Yang', 'Aurora.'], 'likes': 18, 'content': '老弟送的帽子，用了好多年，喜欢'}

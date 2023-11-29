@@ -1,0 +1,1 @@
+{'user': '广西南宁二中 韦雨佳', 'time': '22:18', 'llcs': 180, 'haoyou': ['zzq', 'Minus One Degree', '胖鱼', '663的炸鱼薯条', 'Rose Wonder Galaxy', 'Lusion', 'Tony', '格鸽屋檐', 'Physik soldat', '云端漫步', 'xibalba', '鈴', 'Balance', '二狗', 'Kaito', 'EXTRAORDINARY.', 'hana 星绘★', '憾', 'Sgt. Pepper', '奥利奥脆波波'], 'likes': 82, 'content': '迎新晚会成功！\u200b《关于学妹其实是学姐这件事》'}

@@ -1,0 +1,1 @@
+{'user': '奚睿豪', 'time': '11:30', 'llcs': 65, 'haoyou': ['窦为嘉2253449国豪精英班工科', 'freedomspike', '小兔子', '蜃楼', 'YBbob', 'TiAmo', 'Encore！', '48', '符鲤', 'IM楓', 'Revue☆Starlight', '秦时明玥', 'aw', '快枪手', '狐紫瞳', '新同济大学表白墙', '皇家礼炮团', 'Vsavi Shakti', '同济大学表白墙', '诶呦吼の'], 'likes': 28, 'content': ''}

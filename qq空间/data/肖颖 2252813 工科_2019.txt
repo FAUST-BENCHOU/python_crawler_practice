@@ -1,0 +1,1 @@
+{'user': '肖颖 2252813 工科', 'time': '20:19', 'llcs': 73, 'haoyou': ['2254316沈徐敏', '肖颖 2252813 工科', '230刘文飞', '-', 'Y.B.L. Trammels Smiling.', 'Stray bird', 'Rosa Luxemburg', '草莓甜橙0909', '亲昵.', '北巷南猫', '漂亮的うちは', 'Midnightrain°', '行而上学，不行退学', '...', '波霸奶绿', 'knock knock', '夏日漱石', 'nyanyanya', 'Ethereal', 'iLELE'], 'likes': 42, 'content': '看了五分钟广告就为了只出现三秒的霉霉重制版封面很美！收获之二就是看到了今晚的'}

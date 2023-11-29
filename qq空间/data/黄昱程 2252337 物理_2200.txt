@@ -1,0 +1,1 @@
+{'user': '黄昱程 2252337 物理', 'time': '22:00', 'llcs': 46, 'haoyou': ['窦为嘉2253449国豪精英班工科', '龙俊宇', '王某', 'NPC', '好', 'GIHO', 'Lowri', 'K.Lowsy', 'Luv(Sic.)', 'Heart  TPCO', '•', '镓淋铨·杯⑨换_功臣、', '〔有人@我〕', '●', 'Dddesolation', 'Mico is dreaming.', '诺亚', '云卿', 'Joyfully', '燕麦奶醉鬼.'], 'likes': 26, 'content': '真不喜欢上学呀'}

@@ -1,0 +1,1 @@
+{'user': '21届的学弟高子尧', 'time': '17:30', 'llcs': 39, 'haoyou': ['王冬阳', '2101的严德祯', '2101班滴学弟', 'Tang', '語.', '阳马', 'Re.', '人间怪物', '盐水煮青蛙', 'Randi', '情棺.', 'cloud', '柒。', 'Takanashi Hoshino', '零殊', '陈', 'Cyber Dragon Infinity', '置与', 'C.', '零碎'], 'likes': 21, 'content': '放假最后一天了干脆'}

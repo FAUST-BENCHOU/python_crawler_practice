@@ -1,0 +1,1 @@
+{'user': '广西南宁二中 韦雨佳', 'time': '22:43', 'llcs': 169, 'haoyou': ['广西南宁二中 韦雨佳', 'zzq', 'Minus One Degree', '胖鱼', 'Lusion', '一个达不刘', 'Physik soldat', '云端漫步', 'xibalba', 'Balance', 'Kaito', 'EXTRAORDINARY.', 'Sgt. Pepper', 'wobushiblobfish', '嗑糖高级专家', 'Kaylin', 'Dream.', '黑煤球', 'Uns', '「公子」'], 'likes': 69, 'content': '一天两条推文p1突然慰问的时候所有人：shock谁懂斑马鱼房这个顶光的杀伤力！p3截了好久才有正常表情'}

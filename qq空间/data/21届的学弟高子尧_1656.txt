@@ -1,0 +1,1 @@
+{'user': '21届的学弟高子尧', 'time': '16:56', 'llcs': 33, 'haoyou': ['王冬阳', '2101的严德祯', '2101班滴学弟', 'Tang', '語.', '☆', '阳马', 'Kokoro', 'Re.', '人间怪物', '盐水煮青蛙', 'Hibiscus', 'Randi', '寺答瑞奈', '情棺.', '柒。', 'Takanashi Hoshino', '小面包', '零殊', 'Cyber Dragon Infinity'], 'likes': 26, 'content': '希望巨人如期完结献出心脏'}

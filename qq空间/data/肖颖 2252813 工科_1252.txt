@@ -1,0 +1,1 @@
+{'user': '肖颖 2252813 工科', 'time': '12:52', 'llcs': 85, 'haoyou': ['2254316沈徐敏', '国豪2250883-韦宝怡-王老师', '肖颖 2252813 工科', '230刘文飞', '咬一口汤圆', '-', '彭西骏', 'Y.B.L. Trammels Smiling.', '时雨。', 'Stray bird', 'Rosa Luxemburg', 'cloudwalker', '清醒小岛', 'Farfalla tempesta', 'camellia.', '北巷南猫', '漂亮的うちは', '行而上学，不行退学', '六出纷霏', '...'], 'likes': 62, 'content': '假期无限好，只是终有结'}

@@ -1,0 +1,1 @@
+{'user': '2150244-助教-黄隽阳', 'time': '15:15', 'llcs': 128, 'haoyou': ['2150244-助教-黄隽阳', '2153678-助教-林怀加', '蘑菇', '一只小黑', '♚韶ᝰ♚', '八重嘤-一款乔伊丝厨', 'ζ长安', '黄豆芽', 'Pisces.', '负熵', 'INFINITY', 'fIXfoX', '🫓', '剎那回望', 'Seguir adelante', 'Index-Librorum-Prohibitorum', '一心二意', '磨砂', '枕梦忘忧', 'CarbonCarbonReaction'], 'likes': 29, 'content': '跑完就是胜利'}

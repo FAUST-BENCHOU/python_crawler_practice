@@ -1,0 +1,1 @@
+{'user': '黄昱程 2252337 物理', 'time': '22:58', 'llcs': 51, 'haoyou': ['牟科明2252081国豪', '窦为嘉2253449国豪精英班工科', '黄昱程 2252337 物理', '毛豆出击', '彼方', '王某', 'GIHO', 'Jouska', 'Mads Keanu', 'Heart  TPCO', 'cuber-Tennessine', '风', '•', 'Sunflower', '留云借风真君', '〔有人@我〕', '●', 'Dddesolation', 'pretty', 'Mico is dreaming.'], 'likes': 27, 'content': ''}

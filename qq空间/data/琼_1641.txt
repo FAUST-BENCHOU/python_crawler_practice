@@ -1,0 +1,1 @@
+{'user': '琼', 'time': '16:41', 'llcs': 70, 'haoyou': ['易春', 'ps²YY', '提子', 'ん', '兰时白藏', 'CloudyLake', '林晓', '德颜', 'Angela', '高寒笙', 'Shepherd', "I'm going ashore", 'deserted_419', 'Δ&ι', '沉默是无言', '森 de Master', '鱼背上的叶子', 'Aurora.'], 'likes': 18, 'content': '立冬了，\u200b梧桐叶簌簌地往下落。\u200b大自然完成了他的仪式感，\u200b我也来凑个热闹。藏些叶子来手绘，以应“冬藏”之俗~\u200b'}
