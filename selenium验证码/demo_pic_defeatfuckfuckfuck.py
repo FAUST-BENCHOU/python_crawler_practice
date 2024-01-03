@@ -11,8 +11,8 @@ option.add_experimental_option("detach",True)
 driver = webdriver.Chrome(options=option)
 driver.get('https://1.tongji.edu.cn/')
 
-driver.find_element(By.XPATH,'//*[@id="username"]').send_keys("2252543")
-driver.find_element(By.XPATH,'//*[@id="password"]').send_keys("No2022052469")
+driver.find_element(By.XPATH,'//*[@id="username"]').send_keys("")
+driver.find_element(By.XPATH,'//*[@id="password"]').send_keys("")
 
 driver.find_element(By.XPATH,'//*[@id="reg"]').click()
 
